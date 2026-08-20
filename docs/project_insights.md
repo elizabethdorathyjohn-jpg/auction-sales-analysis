@@ -1,4 +1,4 @@
-# Project Insights — Auction Sales Performance and Pricing Analysis
+# Project Insights - Auction Sales Performance and Pricing Analysis
 
 Every figure below was independently verified across three tools - Python/pandas, SQL, and Power BI  and matched exactly in all three before being included here.
 
