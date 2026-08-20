@@ -1,0 +1,1265 @@
+reserve,estimate_minimum,estimate_maximum,category_descriptions,subcategory_1,buyers_premium_pct,buyers_premium_vat_pct,vendors_commission_pct,vendors_commission_vat_pct,hammer_price,hammer_vat_pct,sold,sale_status,price_performance,sold_below_reserve,buyer_premium_revenue,buyer_premium_vat,vendor_commission_revenue,vendor_commission_vat,vendor_id,public_lot_id
+1063,1100,1400,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0001
+300,300,350,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,300,0,True,Sold,Within Estimate,False,60.0,12.0,0.0,0.0,V059,L0002
+750,800,900,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,750,0,True,Sold,Below Estimate,False,150.0,30.0,0.0,0.0,V025,L0003
+200,200,240,Silver\Gold,,20.0,20.0,0.0,20.0,240,0,True,Sold,Within Estimate,False,48.0,9.6,0.0,0.0,V001,L0004
+1200,1200,1600,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,1650,0,True,Sold,Above Estimate,False,330.0,66.0,0.0,0.0,V025,L0005
+860,860,1000,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0006
+800,850,1000,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0007
+4774,4800,5200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0008
+3800,3800,4200,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0009
+750,800,900,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,750,0,True,Sold,Below Estimate,False,150.0,30.0,0.0,0.0,V025,L0010
+140,140,180,Silver\Gold,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0011
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0012
+215,215,250,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0013
+820,850,1000,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0014
+5775,5800,7000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0015
+3000,3000,3400,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,3100,0,True,Sold,Within Estimate,False,620.0,124.0,0.0,0.0,V004,L0016
+750,800,900,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0017
+3080,3000,3400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0018
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0019
+1200,1200,1400,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,1080,0,True,Sold,Below Estimate,True,216.0,43.2,0.0,0.0,V008,L0020
+750,800,900,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0021
+4200,4200,4800,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0022
+1860,1900,2100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0023
+780,800,900,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0024
+3465,3500,3900,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0025
+1600,1600,1850,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0026
+875,875,1000,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0027
+2200,2200,2400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0028
+3542,3600,4200,Jewellery,,20.0,20.0,0.0,20.0,3200,0,True,Sold,Below Estimate,True,640.0,128.0,0.0,0.0,V018,L0029
+2800,2900,3500,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0030
+750,800,900,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0031
+420,420,550,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0032
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,10,0,True,Sold,Below Estimate,False,2.0,0.4,0.0,0.0,V028,L0033
+1600,1600,1700,Jewellery,,20.0,20.0,0.0,20.0,1600,0,True,Sold,Within Estimate,False,320.0,64.0,0.0,0.0,V017,L0034
+3003,3000,3500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0035
+350,400,500,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,350,0,True,Sold,Below Estimate,False,70.0,14.0,0.0,0.0,V059,L0036
+1100,1100,1200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0037
+400,430,500,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0038
+1271,1300,1600,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0039
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,10,0,True,Sold,Below Estimate,False,2.0,0.4,0.0,0.0,V028,L0040
+425,425,525,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0041
+400,430,500,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0042
+4750,4750,5200,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0043
+300,350,550,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V029,L0044
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0045
+1232,1300,1600,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0046
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0047
+825,825,950,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0048
+1000,1100,1300,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0049
+300,300,400,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0050
+1200,1300,1500,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0051
+1600,1700,2000,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0052
+500,550,900,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,500,0,True,Sold,Below Estimate,False,100.0,20.0,0.0,0.0,V004,L0053
+140,160,240,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,140,0,True,Sold,Below Estimate,False,28.0,5.6,0.0,0.0,V004,L0054
+1117,1200,1400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0055
+550,600,700,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0056
+600,600,700,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0057
+1500,1600,2000,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0058
+250,260,300,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0059
+400,420,500,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0060
+1078,1100,1400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0061
+886,900,1200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0062
+400,400,480,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0063
+150,160,240,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0064
+160,180,200,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0065
+60,80,110,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,60,0,True,Sold,Below Estimate,False,12.0,2.4,0.0,0.0,V004,L0066
+3850,3900,4700,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0067
+575,600,650,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0068
+280,300,450,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0069
+180,200,250,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0070
+180,200,300,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0071
+110,130,180,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0072
+5500,5500,7000,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0073
+2541,2500,2900,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0074
+500,550,600,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0075
+130,150,200,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0076
+1400,1400,1900,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0077
+1000,1000,1200,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0078
+4500,4500,6500,Watch/Pocket watch/Clock,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V041,L0079
+50,50,60,Writing Pens Stationery,,20.0,20.0,0.0,20.0,50,0,True,Sold,Within Estimate,False,10.0,2.0,0.0,0.0,V060,L0080
+2387,2400,2900,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0081
+375,375,475,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0082
+270,290,400,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0083
+800,800,1000,Jewellery,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V010,L0084
+1925,2000,2400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0085
+400,450,500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0086
+300,300,400,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0087
+2000,2000,3000,Sporting Memorabilia,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V048,L0088
+40,60,100,Asian Oriental Chinese Japanese,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V027,L0089
+900,950,1000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0090
+55,55,65,Writing Pens Stationery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0091
+475,500,550,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0092
+2541,2500,3100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0093
+380,380,480,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,345,0,True,Sold,Below Estimate,True,69.0,13.8,0.0,0.0,V008,L0094
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,15,0,True,Sold,Below Estimate,False,3.0,0.6,0.0,0.0,V028,L0095
+10,15,30,Toys Dolls etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0096
+900,900,990,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0097
+80,80,90,Jewellery,,20.0,20.0,0.0,20.0,80,0,True,Sold,Within Estimate,False,16.0,3.2,0.0,0.0,V060,L0098
+375,400,450,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0099
+1232,1200,1500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0100
+400,400,500,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0101
+450,500,650,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0102
+10,15,20,Militaria/Fire Arm,,20.0,20.0,0.0,20.0,10,0,True,Sold,Below Estimate,False,2.0,0.4,0.0,0.0,V028,L0103
+10,15,30,Jewellery,,20.0,20.0,0.0,20.0,10,0,True,Sold,Below Estimate,False,2.0,0.4,0.0,0.0,V028,L0104
+1617,1600,2000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0105
+180,200,250,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0106
+250,280,310,Antique,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V012,L0107
+350,350,450,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0108
+900,900,950,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0109
+500,500,580,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0110
+350,350,380,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0111
+4851,4800,5300,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0112
+950,950,1100,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0113
+2965,3000,3500,Jewellery,,20.0,20.0,0.0,20.0,2800,0,True,Sold,Below Estimate,True,560.0,112.0,0.0,0.0,V018,L0114
+650,650,750,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0115
+700,700,850,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0116
+900,900,1100,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0117
+10,15,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0118
+450,450,500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0119
+140,160,220,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0120
+2387,2300,2800,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0121
+425,425,525,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0122
+900,900,1100,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0123
+250,260,300,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0124
+900,950,1000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0125
+1001,1000,1400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0126
+60,80,120,Jewellery,,20.0,20.0,0.0,20.0,60,0,True,Sold,Below Estimate,False,12.0,2.4,0.0,0.0,V011,L0127
+3465,3500,4000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0128
+700,700,800,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0129
+2200,2200,2500,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0130
+75,80,100,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,75,0,True,Sold,Below Estimate,False,15.0,3.0,0.0,0.0,V059,L0131
+500,550,650,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0132
+986,1000,1200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0133
+400,450,500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0134
+1540,1600,1900,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0135
+360,360,460,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,360,0,True,Sold,Within Estimate,False,72.0,14.4,0.0,0.0,V008,L0136
+2849,2900,3200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0137
+450,450,550,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0138
+550,550,650,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0139
+12320,12500,14500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0140
+410,410,510,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,750,0,True,Sold,Above Estimate,False,150.0,30.0,0.0,0.0,V008,L0141
+2541,2500,3000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0142
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,10,0,True,Sold,Below Estimate,False,2.0,0.4,0.0,0.0,V028,L0143
+265,290,350,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0144
+2000,2000,2400,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0145
+425,450,500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0146
+45,45,55,Writing Pens Stationery,,20.0,20.0,0.0,20.0,45,0,True,Sold,Within Estimate,False,9.0,1.8,0.0,0.0,V060,L0147
+300,330,400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0148
+300,350,400,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V012,L0149
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0150
+15,20,40,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0151
+300,300,360,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0152
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0153
+35,35,45,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0154
+325,325,425,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0155
+1194,1200,1600,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0156
+450,480,550,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0157
+700,700,850,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0158
+1400,1400,1500,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0159
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0160
+40,40,60,Writing Pens Stationery,,20.0,20.0,0.0,20.0,40,0,True,Sold,Within Estimate,False,8.0,1.6,0.0,0.0,V060,L0161
+650,650,750,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0162
+308,400,500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0163
+200,230,280,Jewellery,,20.0,20.0,0.0,20.0,220,0,True,Sold,Below Estimate,False,44.0,8.8,0.0,0.0,V011,L0164
+1500,1500,1700,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,1500,0,True,Sold,Within Estimate,False,300.0,60.0,0.0,0.0,V004,L0165
+800,800,900,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0166
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0167
+60,60,90,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0168
+335,350,400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0169
+2965,3000,3400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0170
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0171
+900,900,1100,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0172
+800,800,900,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0173
+335,350,400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0174
+55,55,65,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0175
+375,400,450,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0176
+75,85,95,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V012,L0177
+10,15,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0178
+1400,1400,1800,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0179
+800,800,900,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,900,0,True,Sold,Within Estimate,False,180.0,36.0,0.0,0.0,V004,L0180
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,15,0,True,Sold,Below Estimate,False,3.0,0.6,0.0,0.0,V028,L0181
+45,45,55,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0182
+475,500,550,Jewellery,,20.0,20.0,0.0,20.0,475,0,True,Sold,Below Estimate,False,95.0,19.0,0.0,0.0,V011,L0183
+270,320,370,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V012,L0184
+900,1000,1200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0185
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0186
+15,20,40,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0187
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0188
+50,50,60,Writing Pens Stationery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0189
+315,340,400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0190
+275,300,325,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,275,0,True,Sold,Below Estimate,False,55.0,11.0,0.0,0.0,V012,L0191
+3300,3300,3400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0192
+2300,2300,2800,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0193
+850,850,950,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0194
+1500,1500,1600,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0195
+385,400,550,Jewellery,,20.0,20.0,0.0,20.0,650,0,True,Sold,Above Estimate,False,130.0,26.0,0.0,0.0,V018,L0196
+220,250,300,Jewellery,,20.0,20.0,0.0,20.0,220,0,True,Sold,Below Estimate,False,44.0,8.8,0.0,0.0,V011,L0197
+3430,3500,4000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0198
+100,120,150,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0199
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,30,0,True,Sold,Above Estimate,False,6.0,1.2,0.0,0.0,V028,L0200
+150,150,250,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0201
+1300,1400,1700,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0202
+501,500,700,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0203
+400,400,500,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0204
+1286,1300,1600,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0205
+10,15,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0206
+70,80,150,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0207
+350,350,450,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0208
+100,100,120,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0209
+250,250,275,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0210
+45,50,80,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0211
+25,30,45,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,25,0,True,Sold,Below Estimate,False,5.0,1.0,0.0,0.0,V012,L0212
+450,450,550,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0213
+220,220,300,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0214
+10,15,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0215
+800,900,1000,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0216
+200,200,250,Jewellery,,20.0,20.0,0.0,20.0,280,0,True,Sold,Above Estimate,False,56.0,11.2,0.0,0.0,V060,L0217
+850,850,950,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,800,0,True,Sold,Below Estimate,True,160.0,32.0,0.0,0.0,V008,L0218
+2811,2800,3200,Jewellery,,20.0,20.0,0.0,20.0,2800,0,True,Sold,Within Estimate,True,560.0,112.0,0.0,0.0,V018,L0219
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0220
+850,850,950,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0221
+500,550,650,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0222
+700,700,750,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0223
+350,350,450,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0224
+1000,1000,1100,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,1450,0,True,Sold,Above Estimate,False,290.0,58.0,0.0,0.0,V008,L0225
+1579,1600,2000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0226
+400,400,500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0227
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0228
+1100,1150,1250,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0229
+600,600,700,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0230
+500,500,600,Jewellery,,20.0,20.0,0.0,20.0,650,0,True,Sold,Above Estimate,False,130.0,26.0,0.0,0.0,V060,L0231
+380,380,480,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0232
+3388,3400,4000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0233
+950,950,1050,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0234
+10,15,30,Jewellery,,20.0,20.0,0.0,20.0,10,0,True,Sold,Below Estimate,False,2.0,0.4,0.0,0.0,V028,L0235
+1800,1900,2200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0236
+2800,3000,3500,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0237
+450,450,550,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0238
+20,25,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0239
+1050,1050,1250,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0240
+1000,1000,1200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0241
+20,25,35,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0242
+15,20,40,Asian Oriental Chinese Japanese,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V027,L0243
+770,800,1000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0244
+5,10,20,Pottery/Ceramic/Porcelain,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V003,L0245
+10,10,15,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0246
+1000,1000,1200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0247
+950,950,1100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0248
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,10,0,True,Sold,Below Estimate,False,2.0,0.4,0.0,0.0,V028,L0249
+825,825,950,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0250
+354,400,600,Jewellery,,20.0,20.0,0.0,20.0,350,0,True,Sold,Below Estimate,True,70.0,14.0,0.0,0.0,V018,L0251
+5,10,20,Pottery/Ceramic/Porcelain,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V034,L0252
+15,15,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0253
+900,900,1100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0254
+900,900,1100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0255
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,20,0,True,Sold,Below Estimate,False,4.0,0.8,0.0,0.0,V028,L0256
+420,420,550,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,420,0,True,Sold,Within Estimate,False,84.0,16.8,0.0,0.0,V025,L0257
+1016,1000,1400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0258
+290,290,300,Jewellery,,20.0,20.0,0.0,20.0,320,0,True,Sold,Above Estimate,False,64.0,12.8,0.0,0.0,V060,L0259
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,15,0,True,Sold,Within Estimate,False,3.0,0.6,0.0,0.0,V028,L0260
+720,720,850,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0261
+700,700,850,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0262
+15,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0263
+50,60,100,Glassware/Mirrors,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V014,L0264
+2609,2600,3000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0265
+55,55,65,Writing Pens Stationery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0266
+10,10,15,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0267
+650,650,750,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0268
+620,620,750,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0269
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0270
+30,50,80,Asian Oriental Chinese Japanese,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V057,L0271
+1001,1000,1300,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0272
+70,70,80,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0273
+20,25,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0274
+600,600,750,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0275
+600,600,750,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0276
+15,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0277
+1600,1600,1800,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0278
+982,1000,1300,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0279
+5,10,20,Scientific instruments,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V003,L0280
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0281
+600,600,750,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0282
+600,600,750,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0283
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0284
+185,185,230,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0285
+2233,2300,2600,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0286
+145,145,200,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0287
+40,50,80,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V015,L0288
+10,15,30,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V012,L0289
+40,50,60,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V015,L0290
+200,200,260,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0291
+200,200,260,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0292
+200,200,300,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0293
+5390,5400,5800,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0294
+80,80,120,Watch/Pocket watch/Clock,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V056,L0295
+1400,1400,1800,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0296
+200,200,300,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0297
+185,185,250,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0298
+300,300,400,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0299
+5390,5400,6200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0300
+1964,2000,2400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0301
+50,50,80,Jewellery,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V021,L0302
+20,20,40,Jewellery,,20.0,20.0,0.0,20.0,20,0,True,Sold,Within Estimate,False,4.0,0.8,0.0,0.0,V028,L0303
+500,500,600,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0304
+50,50,80,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0305
+400,400,500,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0306
+2195,2200,2700,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0307
+2233,2300,2700,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0308
+40,50,100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V015,L0309
+10,10,50,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,10,0,True,Sold,Within Estimate,False,2.0,0.4,0.0,0.0,V012,L0310
+35,35,50,Jewellery,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V021,L0311
+220,240,350,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0312
+600,600,700,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,600,0,True,Sold,Within Estimate,False,120.0,24.0,0.0,0.0,V008,L0313
+200,200,280,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0314
+3234,3300,3600,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0315
+20,30,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V015,L0316
+90,90,140,Fashion,,20.0,20.0,0.0,20.0,90,0,True,Sold,Within Estimate,False,18.0,3.6,0.0,0.0,V059,L0317
+500,500,550,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,500,0,True,Sold,Within Estimate,False,100.0,20.0,75.0,15.0,V039,L0318
+500,500,550,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,500,0,True,Sold,Within Estimate,False,100.0,20.0,75.0,15.0,V039,L0319
+800,800,900,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0320
+150,150,180,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0321
+9471,10000,11000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0322
+100,120,150,Coins Stamps Bank notes,,20.0,20.0,10.0,20.0,100,0,True,Sold,Below Estimate,False,20.0,4.0,10.0,2.0,V021,L0323
+95,95,150,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0324
+250,250,300,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0325
+240,240,320,Jewellery,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V047,L0326
+50,50,80,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0327
+1810,1900,2500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0328
+10,15,20,Boxes trinkets etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0329
+20,20,40,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,60,0,True,Sold,Above Estimate,False,12.0,2.4,0.0,0.0,V062,L0330
+500,500,600,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0331
+20,30,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0332
+175,175,250,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0333
+350,350,450,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0334
+7315,7500,9000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0335
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0336
+385,400,550,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0337
+15,20,30,Musical instruments,,20.0,20.0,0.0,20.0,15,0,True,Sold,Below Estimate,False,3.0,0.6,0.0,0.0,V028,L0338
+10,15,20,Art/ Objet d`art,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0339
+550,570,650,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0340
+15,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0341
+1450,1500,1650,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0342
+375,375,475,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0343
+424,450,600,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0344
+235,250,320,Jewellery,,20.0,20.0,0.0,20.0,260,0,True,Sold,Within Estimate,False,52.0,10.4,0.0,0.0,V011,L0345
+10,20,40,Art/ Objet d`art,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0346
+420,420,500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0347
+260,260,320,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0348
+1650,1700,2000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0349
+75,75,80,Jewellery,,20.0,20.0,0.0,20.0,80,0,True,Sold,Within Estimate,False,16.0,3.2,0.0,0.0,V060,L0350
+616,650,800,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0351
+15,20,40,Other collectables,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0352
+10,15,20,Art/ Objet d`art,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0353
+5,10,20,Art/ Objet d`art,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0354
+10,15,25,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0355
+900,950,1200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0356
+35,35,45,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0357
+2156,2200,2500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0358
+10,15,20,Art/ Objet d`art,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0359
+10,15,20,Art/ Objet d`art,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0360
+250,250,320,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0361
+240,240,280,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0362
+600,650,850,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0363
+55,55,65,Writing Pens Stationery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0364
+1232,1300,1600,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0365
+175,200,250,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0366
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0367
+800,850,950,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0368
+10,15,20,Boxes trinkets etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0369
+10,15,20,Boxes trinkets etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0370
+50,50,60,Writing Pens Stationery,,20.0,20.0,0.0,20.0,100,0,True,Sold,Above Estimate,False,20.0,4.0,0.0,0.0,V060,L0371
+1425,1500,1800,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0372
+240,260,320,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0373
+5,10,20,Film Music Memorabilia,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0374
+300,320,400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0375
+150,150,180,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0376
+3000,3200,4000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0377
+280,280,380,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0378
+3234,3300,3800,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0379
+375,400,450,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0380
+5,10,20,Art/ Objet d`art,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0381
+850,900,1000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0382
+220,220,300,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0383
+1000,1100,1250,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0384
+45,45,65,Writing Pens Stationery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0385
+2387,2400,2900,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0386
+300,330,400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0387
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0388
+700,750,850,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0389
+330,330,420,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,700,0,True,Sold,Above Estimate,False,140.0,28.0,0.0,0.0,V008,L0390
+800,800,1000,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0391
+30,30,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0392
+270,300,500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0393
+320,350,400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0394
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0395
+800,850,1000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0396
+550,550,650,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0397
+1800,1800,2200,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0398
+5,10,20,Fashion,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0399
+2118,2200,2600,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0400
+275,300,350,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0401
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0402
+1063,1100,1400,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0403
+600,600,750,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0404
+900,900,1100,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0405
+45,45,65,Writing Pens Stationery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0406
+2695,2700,3200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0407
+90,100,160,Militaria/Fire Arm,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V061,L0408
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0409
+1100,1200,1300,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0410
+270,270,350,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0411
+1800,1800,2000,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0412
+50,50,60,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0413
+420,420,550,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,420,0,True,Sold,Within Estimate,False,84.0,16.8,0.0,0.0,V025,L0414
+195,220,280,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0415
+5,10,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0416
+2800,2800,3500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0417
+10,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0418
+5,10,20,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0419
+15,20,25,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0420
+185,185,240,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,185,0,True,Sold,Within Estimate,False,37.0,7.4,0.0,0.0,V025,L0421
+10,15,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0422
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0423
+750,800,1000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0424
+420,420,550,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0425
+80,80,100,Writing Pens Stationery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0426
+15,20,40,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0427
+450,450,550,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0428
+325,350,400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0429
+15,25,35,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0430
+550,600,700,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0431
+360,360,450,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0432
+50,50,60,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0433
+40,40,60,Writing Pens Stationery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0434
+260,260,360,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0435
+400,430,500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0436
+10,15,20,Boxes trinkets etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0437
+450,480,650,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0438
+100,120,160,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0439
+550,550,650,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0440
+15,20,25,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0441
+40,50,80,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V015,L0442
+435,460,520,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0443
+90,100,150,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0444
+250,250,350,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,250,0,True,Sold,Within Estimate,False,50.0,10.0,0.0,0.0,V008,L0445
+340,340,420,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0446
+10,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0447
+5,10,20,Boxes trinkets etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0448
+160,160,220,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,160,0,True,Sold,Within Estimate,False,32.0,6.4,0.0,0.0,V025,L0449
+320,350,400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0450
+500,500,550,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0451
+500,500,600,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,500,0,True,Sold,Within Estimate,False,100.0,20.0,0.0,0.0,V059,L0452
+300,300,330,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0453
+60,70,100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0454
+30,30,50,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0455
+120,120,180,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0456
+255,255,355,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,260,0,True,Sold,Within Estimate,False,52.0,10.4,0.0,0.0,V008,L0457
+500,500,600,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0458
+180,180,220,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,180,0,True,Sold,Within Estimate,False,36.0,7.2,0.0,0.0,V059,L0459
+10,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0460
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0461
+25,25,45,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0462
+450,450,550,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0463
+325,350,400,Jewellery,,20.0,20.0,0.0,20.0,325,0,True,Sold,Below Estimate,False,65.0,13.0,0.0,0.0,V011,L0464
+850,850,900,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0465
+600,600,700,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0466
+300,300,440,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0467
+330,330,430,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0468
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0469
+425,425,550,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0470
+420,450,500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0471
+800,800,850,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0472
+65,70,95,Fashion,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0473
+120,120,160,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0474
+60,70,100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0475
+370,370,470,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0476
+425,425,550,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V025,L0477
+500,550,600,Jewellery,,20.0,20.0,0.0,20.0,500,0,True,Sold,Below Estimate,False,100.0,20.0,0.0,0.0,V011,L0478
+10,15,20,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0479
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0480
+10,20,30,Jewellery,,20.0,20.0,0.0,20.0,10,0,True,Sold,Below Estimate,False,2.0,0.4,0.0,0.0,V028,L0481
+15,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0482
+40,40,60,Writing Pens Stationery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0483
+155,160,220,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0484
+360,360,450,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0485
+1100,1100,1500,Militaria/Fire Arm,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V002,L0486
+60,70,100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0487
+320,320,420,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0488
+350,350,450,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0489
+1063,1100,1400,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0490
+100,130,180,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0491
+350,350,450,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0492
+3700,3700,4000,Militaria/Fire Arm,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V002,L0493
+180,200,250,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0494
+400,400,500,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0495
+200,200,260,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0496
+1063,1100,1400,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0497
+90,120,160,Jewellery,,20.0,20.0,0.0,20.0,90,0,True,Sold,Below Estimate,False,18.0,3.6,0.0,0.0,V011,L0498
+300,300,400,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0499
+2000,2000,2500,Militaria/Fire Arm,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V002,L0500
+200,220,320,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0501
+300,300,400,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0502
+860,860,1000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0503
+35,35,55,Writing Pens Stationery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0504
+100,120,180,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0505
+350,350,450,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,550,0,True,Sold,Above Estimate,False,110.0,22.0,0.0,0.0,V008,L0506
+2200,2200,3000,Militaria/Fire Arm,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V002,L0507
+250,260,300,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0508
+425,425,525,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0509
+1000,1000,1200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0510
+40,40,50,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0511
+15,20,40,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0512
+350,350,450,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0513
+10,20,40,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,35,0,True,Sold,Within Estimate,False,7.0,1.4,0.0,0.0,V028,L0514
+950,1000,1250,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0515
+300,320,350,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0516
+880,880,1000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0517
+1063,1100,1400,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V018,L0518
+35,50,70,Jewellery,,20.0,20.0,0.0,20.0,40,0,True,Sold,Below Estimate,False,8.0,1.6,0.0,0.0,V011,L0519
+300,300,400,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0520
+700,700,900,Militaria/Fire Arm,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V002,L0521
+1600,1700,2200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0522
+320,340,420,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0523
+1000,1000,1200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0524
+40,40,60,Silver\Gold,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0525
+15,20,40,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0526
+300,300,400,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0527
+2000,2000,2400,Militaria/Fire Arm,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V002,L0528
+380,400,550,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0529
+500,550,750,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0530
+1050,1050,1200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0531
+35,35,45,Silver\Gold,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0532
+30,40,60,Jewellery,,20.0,20.0,0.0,20.0,35,0,True,Sold,Below Estimate,False,7.0,1.4,0.0,0.0,V015,L0533
+250,250,350,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,250,0,True,Sold,Within Estimate,False,50.0,10.0,0.0,0.0,V008,L0534
+30,40,60,Jewellery,,20.0,20.0,0.0,20.0,40,0,True,Sold,Within Estimate,False,8.0,1.6,0.0,0.0,V015,L0535
+1800,1900,2200,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0536
+60,70,100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0537
+150,160,180,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0538
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0539
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0540
+800,800,900,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,750,0,True,Sold,Below Estimate,True,150.0,30.0,0.0,0.0,V008,L0541
+90,100,160,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0542
+70,80,140,Writing Pens Stationery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0543
+130,130,180,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0544
+120,120,150,Fashion,,20.0,20.0,0.0,20.0,160,0,True,Sold,Above Estimate,False,32.0,6.4,0.0,0.0,V004,L0545
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0546
+10,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0547
+5,10,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0548
+10,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0549
+2600,2800,3200,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0550
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0551
+100,120,150,Fashion,,20.0,20.0,0.0,20.0,100,0,True,Sold,Below Estimate,False,20.0,4.0,0.0,0.0,V004,L0552
+35,40,60,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V037,L0553
+100,120,150,Jewellery,,20.0,20.0,0.0,20.0,100,0,True,Sold,Below Estimate,False,20.0,4.0,0.0,0.0,V026,L0554
+5,10,20,Boxes trinkets etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0555
+50,60,100,Religious Collectibles,Antique,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0556
+5000,5000,6000,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0557
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0558
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0559
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0560
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,15,0,True,Sold,Below Estimate,False,3.0,0.6,0.0,0.0,V028,L0561
+10,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0562
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0563
+370,370,450,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0564
+5,10,20,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0565
+80,90,100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0566
+35,35,45,Writing Pens Stationery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0567
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0568
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,15,0,True,Sold,Below Estimate,False,3.0,0.6,0.0,0.0,V028,L0569
+90,120,170,Jewellery,,20.0,20.0,0.0,20.0,140,0,True,Sold,Within Estimate,False,28.0,5.6,0.0,0.0,V011,L0570
+700,700,900,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0571
+10,10,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0572
+7000,7500,8000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0573
+90,120,180,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0574
+10,20,30,Jewellery,,20.0,20.0,0.0,20.0,10,0,True,Sold,Below Estimate,False,2.0,0.4,0.0,0.0,V028,L0575
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0576
+120,120,150,Fashion,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0577
+260,270,350,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0578
+20,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0579
+100,100,120,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0580
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,15,0,True,Sold,Below Estimate,False,3.0,0.6,0.0,0.0,V028,L0581
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0582
+900,900,1100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0583
+10,10,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0584
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0585
+150,180,250,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V040,L0586
+75,75,95,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0587
+10,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0588
+20,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0589
+1200,1200,1400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0590
+900,900,1000,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,1350,0,True,Sold,Above Estimate,False,270.0,54.0,0.0,0.0,V008,L0591
+150,180,300,Asian Oriental Chinese Japanese,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V027,L0592
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0593
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0594
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0595
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0596
+1450,1450,1700,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0597
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0598
+70,80,120,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,90,0,True,Sold,Within Estimate,False,18.0,3.6,4.5,0.9,V040,L0599
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0600
+30,30,50,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,35,0,True,Sold,Within Estimate,False,7.0,1.4,0.0,0.0,V060,L0601
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,15,0,True,Sold,Below Estimate,False,3.0,0.6,0.0,0.0,V028,L0602
+1000,1000,1200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0603
+15,20,40,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0604
+50,60,90,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,50,0,True,Sold,Below Estimate,False,10.0,2.0,2.5,0.5,V040,L0605
+15,20,40,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0606
+95,95,100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0607
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0608
+15,20,40,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,15,0,True,Sold,Below Estimate,False,3.0,0.6,0.0,0.0,V028,L0609
+1250,1250,1400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0610
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0611
+20,30,40,Asian Oriental Chinese Japanese,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V027,L0612
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0613
+700,700,900,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0614
+35,35,55,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,35,0,True,Sold,Within Estimate,False,7.0,1.4,0.0,0.0,V060,L0615
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0616
+1350,1350,1600,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0617
+450,450,600,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0618
+60,60,80,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0619
+750,750,900,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0620
+200,200,250,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0621
+30,30,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0622
+55,70,100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0623
+1450,1450,1700,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0624
+450,450,550,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0625
+50,70,120,Asian Oriental Chinese Japanese,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V027,L0626
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0627
+140,140,180,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0628
+180,200,250,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0629
+20,30,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0630
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0631
+150,180,250,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0632
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0633
+10,15,20,Other collectables,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0634
+35,35,45,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,40,0,True,Sold,Within Estimate,False,8.0,1.6,0.0,0.0,V060,L0635
+90,110,150,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0636
+70,70,90,Fashion,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0637
+10,10,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0638
+120,120,150,Writing Pens Stationery,,20.0,20.0,0.0,20.0,120,0,True,Sold,Within Estimate,False,24.0,4.8,0.0,0.0,V004,L0639
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0640
+220,220,300,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0641
+5,5,10,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0642
+50,60,70,Fashion,Fashion,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0643
+20,20,40,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0644
+10,15,20,Tribal African Amazon,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0645
+10,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0646
+15,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0647
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0648
+130,150,170,Silver\Gold,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0649
+10,15,20,Boxes trinkets etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0650
+10,15,20,Militaria/Fire Arm,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0651
+185,200,260,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0652
+280,300,350,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0653
+45,50,80,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,45,0,True,Sold,Below Estimate,False,9.0,1.8,0.0,0.0,V001,L0654
+5,10,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0655
+190,220,250,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0656
+10,20,40,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0657
+10,15,20,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,10,0,True,Sold,Below Estimate,False,2.0,0.4,0.0,0.0,V028,L0658
+80,100,150,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0659
+300,300,400,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0660
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,10,0,True,Sold,Below Estimate,False,2.0,0.4,0.0,0.0,V028,L0661
+35,35,45,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0662
+10,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0663
+10,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0664
+5,10,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0665
+180,200,250,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0666
+4500,4500,5000,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0667
+10,10,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0668
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0669
+60,80,100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0670
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0671
+10,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0672
+150,180,220,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0673
+3000,3000,4000,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0674
+5,10,20,Alcohol,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0675
+40,40,60,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,40,0,True,Sold,Within Estimate,False,8.0,1.6,0.0,0.0,V060,L0676
+150,170,190,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0677
+10,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0678
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0679
+820,820,1000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0680
+440,440,550,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0681
+10,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0682
+10,15,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0683
+150,170,190,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0684
+15,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0685
+550,550,800,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0686
+1300,1300,1500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0687
+10,15,30,Toys Dolls etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0688
+700,700,900,Militaria/Fire Arm,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V002,L0689
+25,25,50,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0690
+70,80,90,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0691
+900,900,1100,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V043,L0692
+1000,1000,1100,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V043,L0693
+900,900,1100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0694
+420,420,500,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0695
+650,650,900,Militaria/Fire Arm,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V002,L0696
+25,30,40,Fashion,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V050,L0697
+110,130,150,Fashion,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0698
+115,130,180,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0699
+1600,1600,2200,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V043,L0700
+1650,1650,1900,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0701
+360,360,500,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0702
+500,500,700,Militaria/Fire Arm,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V002,L0703
+45,45,65,Writing Pens Stationery,,20.0,20.0,0.0,20.0,45,0,True,Sold,Within Estimate,False,9.0,1.8,0.0,0.0,V060,L0704
+110,130,150,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0705
+125,150,200,Jewellery,,20.0,20.0,0.0,20.0,125,0,True,Sold,Below Estimate,False,25.0,5.0,0.0,0.0,V011,L0706
+3000,3000,3600,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V043,L0707
+1200,1200,1300,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0708
+280,240,320,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0709
+1800,1950,2300,Metalware,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0710
+115,130,180,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0711
+2200,2200,2500,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,2200,0,True,Sold,Within Estimate,False,440.0,88.0,0.0,0.0,V001,L0712
+1250,1250,1400,Jewellery,,20.0,20.0,0.0,20.0,1150,0,True,Sold,Below Estimate,True,230.0,46.0,0.0,0.0,V008,L0713
+430,450,470,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0714
+910,910,1100,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V043,L0715
+500,500,700,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L0716
+1000,1000,1250,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0717
+270,270,350,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0718
+15,20,25,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0719
+45,45,65,Writing Pens Stationery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0720
+280,300,350,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0721
+900,900,1100,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V043,L0722
+280,300,360,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0723
+280,300,380,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0724
+300,330,380,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0725
+1000,1100,1200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0726
+3600,3600,4000,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V043,L0727
+90,120,160,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0728
+400,400,500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0729
+220,230,300,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0730
+160,170,240,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0731
+250,260,340,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0732
+1900,2000,2300,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0733
+1000,1000,1100,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V043,L0734
+500,550,750,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0735
+160,180,240,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0736
+750,800,1000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0737
+300,320,360,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0738
+1000,1000,1100,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,1000,0,True,Sold,Within Estimate,False,200.0,40.0,50.0,10.0,V043,L0739
+300,300,350,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0740
+220,230,300,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0741
+100,110,140,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0742
+500,550,600,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0743
+900,900,1100,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V043,L0744
+70,90,150,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0745
+600,650,850,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0746
+130,130,200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0747
+15,20,25,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0748
+290,350,370,Asian Oriental Chinese Japanese,Asian Oriental Chinese Japanese,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0749
+900,900,1100,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V043,L0750
+300,300,400,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0751
+160,170,240,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0752
+100,120,180,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V040,L0753
+300,330,350,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0754
+950,950,1100,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V043,L0755
+20,30,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0756
+250,250,350,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0757
+20,25,40,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,35,0,True,Sold,Within Estimate,False,7.0,1.4,1.75,0.35,V040,L0758
+160,170,200,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0759
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0760
+600,600,750,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0761
+600,600,750,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0762
+160,180,200,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0763
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0764
+560,560,650,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0765
+500,500,600,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0766
+450,500,550,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0767
+10,10,20,Silver\Gold,,20.0,20.0,0.0,20.0,10,0,True,Sold,Within Estimate,False,2.0,0.4,0.0,0.0,V028,L0768
+10,20,35,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0769
+10,15,20,Retro vintage,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0770
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0771
+480,480,600,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0772
+460,460,550,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0773
+10,10,20,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0774
+10,15,20,Tribal African Amazon,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0775
+5,10,20,Boxes trinkets etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0776
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0777
+400,400,500,Jewellery,,20.0,20.0,0.0,20.0,400,0,True,Sold,Within Estimate,False,80.0,16.0,0.0,0.0,V008,L0778
+400,400,550,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0779
+70,80,120,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V040,L0780
+10,15,20,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0781
+10,15,20,Other collectables,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0782
+10,15,25,Boxes trinkets etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0783
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0784
+400,400,550,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0785
+400,400,500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0786
+900,950,1200,Art/ Objet d`art,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0787
+10,15,20,Other collectables,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0788
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0789
+5,5,10,Militaria/Fire Arm,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0790
+10,15,30,Jewellery,,20.0,20.0,0.0,20.0,10,0,True,Sold,Below Estimate,False,2.0,0.4,0.0,0.0,V028,L0791
+380,380,450,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0792
+350,350,450,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0793
+1200,1300,1500,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0794
+180,180,190,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L0795
+300,350,550,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0796
+10,20,40,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0797
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0798
+330,330,400,Jewellery,,20.0,20.0,0.0,20.0,330,0,True,Sold,Within Estimate,False,66.0,13.2,0.0,0.0,V008,L0799
+270,270,340,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0800
+250,250,300,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0801
+700,700,850,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0802
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0803
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0804
+10,10,15,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0805
+150,150,180,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0806
+1900,1900,2400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0807
+1400,1400,1600,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0808
+20,25,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0809
+10,15,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0810
+50,50,80,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0811
+1000,1000,1200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0812
+850,850,950,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0813
+20,25,35,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0814
+20,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0815
+500,500,650,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0816
+600,600,750,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0817
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0818
+25,30,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0819
+1100,1100,1400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0820
+780,780,850,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0821
+15,15,25,Jewellery,,20.0,20.0,0.0,20.0,15,0,True,Sold,Within Estimate,False,3.0,0.6,0.0,0.0,V028,L0822
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0823
+300,300,350,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0824
+600,600,650,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0825
+200,200,250,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0826
+900,900,1100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0827
+900,900,1100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0828
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0829
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0830
+100,100,150,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0831
+200,200,300,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0832
+950,950,1100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0833
+20,25,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0834
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0835
+200,200,250,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0836
+40,40,80,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0837
+5,10,20,Jewellery,,20.0,20.0,0.0,20.0,5,0,True,Sold,Below Estimate,False,1.0,0.2,0.0,0.0,V028,L0838
+160,180,240,Toys Dolls etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0839
+70,90,140,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0840
+800,850,950,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0841
+140,140,200,Jewellery,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V047,L0842
+100,130,170,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0843
+15,20,40,Tribal African Amazon,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0844
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0845
+10,20,40,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0846
+10,20,40,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0847
+370,380,500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0848
+550,550,700,Jewellery,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V047,L0849
+60,70,100,Militaria/Fire Arm,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V044,L0850
+200,200,250,Musical instruments,,20.0,20.0,0.0,20.0,200,0,True,Sold,Within Estimate,False,40.0,8.0,0.0,0.0,V059,L0851
+220,250,350,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0852
+550,550,700,Jewellery,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V053,L0853
+20,30,40,Jewellery,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V027,L0854
+30,40,60,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V016,L0855
+10,15,30,Militaria/Fire Arm,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0856
+100,120,160,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0857
+120,140,210,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0858
+70,80,120,Asian Oriental Chinese Japanese,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V032,L0859
+15,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0860
+20,30,40,Asian Oriental Chinese Japanese,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V027,L0861
+15,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0862
+40,50,80,Militaria/Fire Arm,,20.0,20.0,10.0,20.0,45,0,True,Sold,Below Estimate,False,9.0,1.8,4.5,0.9,V056,L0863
+10,15,20,Metalware,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V030,L0864
+150,150,180,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V059,L0865
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0866
+20,30,40,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0867
+10,10,15,Sporting Memorabilia,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0868
+15,20,30,Sporting Memorabilia,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V052,L0869
+150,150,200,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L0870
+10,15,20,Other collectables,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0871
+5,10,20,Toys Dolls etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0872
+15,20,40,Toys Dolls etc,,20.0,20.0,0.0,20.0,15,0,True,Sold,Below Estimate,False,3.0,0.6,0.0,0.0,V028,L0873
+160,180,240,Toys Dolls etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0874
+30,40,60,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,35,0,True,Sold,Below Estimate,False,7.0,1.4,1.75,0.35,V040,L0875
+50,60,100,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V016,L0876
+5,10,20,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0877
+5,10,20,Art/ Objet d`art,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V027,L0878
+130,130,200,Jewellery,,20.0,20.0,0.0,20.0,130,0,True,Sold,Within Estimate,False,26.0,5.2,0.0,0.0,V059,L0879
+5,10,20,Retro vintage,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0880
+75,90,150,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,100,0,True,Sold,Within Estimate,False,20.0,4.0,5.0,1.0,V040,L0881
+10,10,20,Other collectables,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0882
+50,60,100,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V016,L0883
+15,20,40,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0884
+5,10,15,Retro vintage,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0885
+10,15,25,Boxes trinkets etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0886
+15,20,50,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0887
+15,20,40,Boxes trinkets etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0888
+20,30,50,Other collectables,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0889
+360,360,450,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0890
+750,800,1000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0891
+300,350,400,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V029,L0892
+70,80,120,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V016,L0893
+15,20,30,Tobacco lighters smoking,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0894
+80,100,200,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V016,L0895
+5,10,15,Boxes trinkets etc,,20.0,20.0,0.0,20.0,5,0,True,Sold,Below Estimate,False,1.0,0.2,0.0,0.0,V028,L0896
+350,350,450,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0897
+250,260,300,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0898
+5,10,20,Boxes trinkets etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0899
+15,20,40,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0900
+10,15,20,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0901
+25,40,70,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V016,L0902
+10,15,25,Boxes trinkets etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0903
+330,330,450,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0904
+200,220,280,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0905
+5,10,20,Books/Comics,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V031,L0906
+5,10,20,Other collectables,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0907
+10,15,20,Boxes trinkets etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0908
+45,60,80,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L0909
+10,15,20,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V062,L0910
+330,330,450,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0911
+500,550,700,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0912
+25,30,40,Kitchen / Catering,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V050,L0913
+60,80,120,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0914
+80,100,200,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L0915
+5,5,10,Tribal African Amazon,Musical instruments,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0916
+420,420,550,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0917
+400,450,550,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0918
+500,550,600,Asian Oriental Chinese Japanese,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V010,L0919
+60,80,120,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L0920
+5,10,20,Other collectables,,20.0,20.0,0.0,20.0,5,0,True,Sold,Below Estimate,False,1.0,0.2,0.0,0.0,V028,L0921
+200,250,300,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L0922
+10,15,20,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0923
+390,400,500,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0924
+200,240,300,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0925
+250,300,400,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V029,L0926
+45,60,100,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L0927
+10,15,20,Boxes trinkets etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0928
+60,80,100,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L0929
+10,15,20,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0930
+330,330,450,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0931
+600,650,750,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0932
+120,130,150,Fashion,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V036,L0933
+200,250,300,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L0934
+5,10,20,Toys Dolls etc,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0935
+480,480,580,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0936
+390,400,500,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0937
+20,25,40,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0938
+1350,1400,1550,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0939
+80,100,150,"Gemstones, minerals, fossils",,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V045,L0940
+60,80,100,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L0941
+5,5,10,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0942
+260,260,320,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V011,L0943
+390,400,500,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0944
+10,20,40,Art/ Objet d`art,,20.0,20.0,15.0,20.0,35,0,True,Sold,Within Estimate,False,7.0,1.4,5.25,1.05,V006,L0945
+1350,1400,1550,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V017,L0946
+80,100,160,Jewellery,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V045,L0947
+60,80,120,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L0948
+15,25,50,Art/ Objet d`art,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V006,L0949
+20,30,50,Art/ Objet d`art,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V049,L0950
+360,360,450,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0951
+280,300,360,Advertising,Watch/Pocket watch/Clock,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0952
+2700,2700,2900,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0953
+25,30,40,Clothing,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V050,L0954
+350,350,420,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L0955
+5,10,20,Other collectables,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0956
+10,15,20,Other collectables,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0957
+360,360,450,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0958
+30,35,50,Jewellery,,20.0,20.0,0.0,20.0,30,0,True,Sold,Below Estimate,False,6.0,1.2,0.0,0.0,V001,L0959
+25,30,50,Watch/Pocket watch/Clock,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V057,L0960
+10,20,30,Suitcase /Handbags / Wallets,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V050,L0961
+60,80,100,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L0962
+5,5,10,Other collectables,,20.0,20.0,0.0,20.0,5,0,True,Sold,Within Estimate,False,1.0,0.2,0.0,0.0,V028,L0963
+5,10,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0964
+2500,2500,3000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0965
+70,80,140,"Gemstones, minerals, fossils",,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V042,L0966
+5,10,20,"Gemstones, minerals, fossils",,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V045,L0967
+15,20,40,Other collectables,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0968
+45,70,100,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L0969
+20,30,50,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0970
+10,15,20,Other collectables,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0971
+2500,2500,3000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0972
+15,20,40,Silver\Gold,,20.0,20.0,0.0,20.0,15,0,True,Sold,Below Estimate,False,3.0,0.6,0.0,0.0,V028,L0973
+10,15,20,Watch/Pocket watch/Clock,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V057,L0974
+15,20,30,Retro vintage,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0975
+45,70,100,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L0976
+370,370,460,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,370,0,True,Sold,Within Estimate,False,74.0,14.8,0.0,0.0,V025,L0977
+2000,2000,2500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0978
+15,20,40,Other collectables,,20.0,20.0,0.0,20.0,15,0,True,Sold,Below Estimate,False,3.0,0.6,0.0,0.0,V028,L0979
+80,90,100,Militaria/Fire Arm,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V061,L0980
+1600,1600,2200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L0981
+235,260,400,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,235,0,True,Sold,Below Estimate,False,47.0,9.4,0.0,0.0,V020,L0982
+60,60,100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0983
+45,60,80,Militaria/Fire Arm,,20.0,20.0,8.0,20.0,45,0,True,Sold,Below Estimate,False,9.0,1.8,3.6,0.72,V035,L0984
+15,20,25,Jewellery,,20.0,20.0,0.0,20.0,15,0,True,Sold,Below Estimate,False,3.0,0.6,0.0,0.0,V028,L0985
+295,350,500,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,290,0,True,Sold,Below Estimate,True,58.0,11.6,0.0,0.0,V020,L0986
+70,70,100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0987
+10,15,20,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0988
+370,370,470,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,370,0,True,Sold,Within Estimate,False,74.0,14.8,0.0,0.0,V025,L0989
+15,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0990
+200,250,400,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L0991
+5,10,20,Retro vintage,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V032,L0992
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,20,0,True,Sold,Below Estimate,False,4.0,0.8,0.0,0.0,V028,L0993
+1800,1900,2500,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0994
+60,80,120,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L0995
+80,90,100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L0996
+15,20,40,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L0997
+800,800,1000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V012,L0998
+2500,2600,3000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L0999
+45,60,80,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L1000
+50,60,80,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L1001
+10,15,20,Cameras Radios Projector,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V001,L1002
+20,25,45,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1003
+35,35,80,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V012,L1004
+25,30,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1005
+380,400,550,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1006
+200,250,400,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L1007
+20,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L1008
+15,20,40,Other collectables,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V038,L1009
+25,30,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1010
+250,250,350,Jewellery,,20.0,20.0,0.0,20.0,250,0,True,Sold,Within Estimate,False,50.0,10.0,0.0,0.0,V012,L1011
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1012
+280,300,400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1013
+60,80,120,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L1014
+300,300,400,"Gemstones, minerals, fossils",,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L1015
+800,900,1000,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V046,L1016
+20,20,40,Jewellery,,20.0,20.0,0.0,20.0,20,0,True,Sold,Within Estimate,False,4.0,0.8,0.0,0.0,V028,L1017
+120,150,200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V012,L1018
+80,100,200,Woodenware,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L1019
+15,15,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1020
+820,850,950,Jewellery,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V057,L1021
+5,10,20,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,5,0,True,Sold,Below Estimate,False,1.0,0.2,0.0,0.0,V051,L1022
+20,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L1023
+40,45,70,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1024
+10,15,30,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V051,L1025
+30,30,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L1026
+420,450,550,Jewellery,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V057,L1027
+5,10,20,Glassware/Mirrors,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V051,L1028
+40,40,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L1029
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1030
+840,860,950,Jewellery,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V057,L1031
+100,120,150,Jewellery,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V045,L1032
+50,70,100,Other collectables,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V019,L1033
+20,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L1034
+15,15,40,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V012,L1035
+15,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1036
+70,90,120,Jewellery,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V045,L1037
+25,40,60,Jewellery,,20.0,20.0,0.0,20.0,25,0,True,Sold,Below Estimate,False,5.0,1.0,0.0,0.0,V023,L1038
+20,40,60,Woodenware,Woodenware,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V019,L1039
+10,10,40,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V012,L1040
+20,25,45,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1041
+60,70,80,Jewellery,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V045,L1042
+100,120,150,Jewellery,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V045,L1043
+20,40,60,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V019,L1044
+20,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L1045
+5,5,40,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V012,L1046
+20,40,60,Woodenware,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V019,L1047
+20,30,60,Antique,,20.0,20.0,15.0,20.0,20,0,True,Sold,Below Estimate,False,4.0,0.8,3.0,0.6,V038,L1048
+20,30,40,Asian Oriental Chinese Japanese,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V009,L1049
+25,35,50,Silver\Gold,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1050
+840,840,950,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L1051
+230,250,300,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1052
+20,40,60,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V019,L1053
+10,20,30,Asian Oriental Chinese Japanese,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V005,L1054
+40,50,90,Art/ Objet d`art,,20.0,20.0,15.0,20.0,40,0,True,Sold,Below Estimate,False,8.0,1.6,6.0,1.2,V027,L1055
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1056
+440,450,650,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1057
+2000,2500,4000,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,2000,0,True,Sold,Below Estimate,False,400.0,80.0,0.0,0.0,V019,L1058
+20,30,40,Asian Oriental Chinese Japanese,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V009,L1059
+250,300,400,Art/ Objet d`art,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V007,L1060
+800,800,1000,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L1061
+500,550,750,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1062
+440,450,600,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1063
+30,50,90,Alcohol,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V019,L1064
+15,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1065
+1700,1700,2300,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V008,L1066
+480,500,650,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1067
+30,50,100,Fashion,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V019,L1068
+150,150,210,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V012,L1069
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1070
+10,15,30,Art/ Objet d`art,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V047,L1071
+650,700,850,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1072
+20,40,60,Religious Collectibles,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V024,L1073
+50,50,70,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L1074
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1075
+30,40,80,Art/ Objet d`art,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V047,L1076
+600,650,850,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1077
+20,40,60,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,20,0,True,Sold,Below Estimate,False,4.0,0.8,0.0,0.0,V016,L1078
+100,120,150,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L1079
+15,20,25,Jewellery,,20.0,20.0,0.0,20.0,15,0,True,Sold,Below Estimate,False,3.0,0.6,0.0,0.0,V028,L1080
+35,40,60,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,35,0,True,Sold,Below Estimate,False,7.0,1.4,0.0,0.0,V028,L1081
+35,40,60,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L1082
+15,20,40,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V062,L1083
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1084
+15,25,45,Religious Collectibles,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V024,L1085
+30,50,90,Woodenware,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V024,L1086
+700,800,1000,Suitcase /Handbags / Wallets,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V013,L1087
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,10,0,True,Sold,Below Estimate,False,2.0,0.4,0.0,0.0,V028,L1088
+15,20,25,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1089
+50,60,80,Militaria/Fire Arm,,20.0,20.0,10.0,20.0,50,0,True,Sold,Below Estimate,False,10.0,2.0,5.0,1.0,V044,L1090
+5,10,20,Jewellery,,20.0,20.0,0.0,20.0,5,0,True,Sold,Below Estimate,False,1.0,0.2,0.0,0.0,V028,L1091
+25,40,70,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V024,L1092
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1093
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1094
+25,40,70,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V024,L1095
+15,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1096
+15,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1097
+15,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1098
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1099
+20,40,60,Religious Collectibles,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V024,L1100
+80,100,140,Jewellery,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V053,L1101
+50,80,150,Woodenware,,20.0,20.0,0.0,20.0,50,0,True,Sold,Below Estimate,False,10.0,2.0,0.0,0.0,V024,L1102
+20,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1103
+5,10,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V062,L1104
+250,250,275,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L1105
+600,650,800,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1106
+800,800,1200,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L1107
+5,10,20,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V062,L1108
+1000,1200,1400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1109
+150,150,200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L1110
+15,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1111
+1000,1100,1400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1112
+90,110,160,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L1113
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1114
+40,50,100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V062,L1115
+150,160,220,Jewellery,,20.0,20.0,0.0,20.0,150,0,True,Sold,Below Estimate,False,30.0,6.0,0.0,0.0,V022,L1116
+50,80,140,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L1117
+10,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1118
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V062,L1119
+80,100,140,Jewellery,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V045,L1120
+25,25,50,Jewellery,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V053,L1121
+40,50,80,Jewellery,,20.0,20.0,15.0,20.0,40,0,True,Sold,Below Estimate,False,8.0,1.6,6.0,1.2,V033,L1122
+200,230,350,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,200,0,True,Sold,Below Estimate,False,40.0,8.0,0.0,0.0,V020,L1123
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1124
+15,15,25,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L1125
+340,350,450,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1126
+70,80,110,Asian Oriental Chinese Japanese,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V010,L1127
+70,100,180,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L1128
+25,30,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1129
+30,40,60,Metalware,,20.0,20.0,15.0,20.0,30,0,True,Sold,Below Estimate,False,6.0,1.2,4.5,0.9,V005,L1130
+90,120,180,Woodenware,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L1131
+25,25,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L1132
+850,900,1200,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1133
+15,20,30,Art/ Objet d`art,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V005,L1134
+25,30,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1135
+400,450,550,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1136
+70,80,100,Metalware,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V005,L1137
+30,40,90,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V020,L1138
+25,30,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1139
+20,20,40,Coins Stamps Bank notes,,20.0,20.0,0.0,20.0,20,0,True,Sold,Within Estimate,False,4.0,0.8,0.0,0.0,V060,L1140
+500,550,750,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1141
+5,10,20,Asian Oriental Chinese Japanese,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V027,L1142
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1143
+20,25,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1144
+260,280,340,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1145
+160,180,250,Metalware,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V029,L1146
+20,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1147
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1148
+170,180,220,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1149
+50,50,80,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,60,0,True,Sold,Within Estimate,False,12.0,2.4,9.0,1.8,V039,L1150
+5,10,20,Art/ Objet d`art,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V027,L1151
+900,1000,1600,"Gemstones, minerals, fossils",,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V045,L1152
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1153
+40,50,80,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L1154
+50,70,120,"Gemstones, minerals, fossils",,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V042,L1155
+30,40,60,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,30,0,True,Sold,Below Estimate,False,6.0,1.2,1.5,0.3,V040,L1156
+10,15,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1157
+50,50,80,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L1158
+20,30,50,"Gemstones, minerals, fossils",,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V042,L1159
+60,70,100,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,60,0,True,Sold,Below Estimate,False,12.0,2.4,3.0,0.6,V040,L1160
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1161
+30,40,60,Militaria/Fire Arm,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V039,L1162
+20,30,40,Film Music Memorabilia,,20.0,20.0,15.0,20.0,20,0,True,Sold,Below Estimate,False,4.0,0.8,3.0,0.6,V006,L1163
+80,90,150,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L1164
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,15,0,True,Sold,Below Estimate,False,3.0,0.6,0.0,0.0,V028,L1165
+15,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1166
+50,60,100,Tobacco lighters smoking,,20.0,20.0,15.0,20.0,50,0,True,Sold,Below Estimate,False,10.0,2.0,7.5,1.5,V050,L1167
+10,15,30,Jewellery,,20.0,20.0,15.0,20.0,10,0,True,Sold,Below Estimate,False,2.0,0.4,1.5,0.3,V055,L1168
+40,50,80,Coins Stamps Bank notes,,20.0,20.0,5.0,20.0,40,0,True,Sold,Below Estimate,False,8.0,1.6,2.0,0.4,V040,L1169
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1170
+30,40,80,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V036,L1171
+20,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1172
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1173
+2600,2800,3400,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L1174
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1175
+25,25,35,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,25,0,True,Sold,Within Estimate,False,5.0,1.0,0.0,0.0,V060,L1176
+20,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1177
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1178
+15,20,40,"Gemstones, minerals, fossils",,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V042,L1179
+25,25,45,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L1180
+50,50,70,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V012,L1181
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1182
+40,50,70,Jewellery,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V045,L1183
+35,35,55,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L1184
+5,5,40,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V012,L1185
+1600,1600,2500,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L1186
+60,60,80,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V054,L1187
+15,15,35,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L1188
+20,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1189
+20,20,40,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1190
+1300,1400,1700,Watch/Pocket watch/Clock,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L1191
+20,20,40,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1192
+70,80,150,Jewellery,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V045,L1193
+30,30,50,Jewellery,,20.0,20.0,0.0,20.0,30,0,True,Sold,Within Estimate,False,6.0,1.2,0.0,0.0,V060,L1194
+230,250,300,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1195
+5,10,20,Asian Oriental Chinese Japanese,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V051,L1196
+20,25,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1197
+20,20,40,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1198
+120,120,160,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1199
+35,40,55,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1200
+100,110,140,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1201
+5,10,20,Watch/Pocket watch/Clock,,20.0,20.0,15.0,20.0,5,0,True,Sold,Below Estimate,False,1.0,0.2,0.75,0.15,V007,L1202
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1203
+20,20,40,Suitcase /Handbags / Wallets,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1204
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,20,0,True,Sold,Below Estimate,False,4.0,0.8,0.0,0.0,V028,L1205
+30,30,50,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V060,L1206
+15,20,35,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1207
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1208
+120,130,180,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V022,L1209
+10,15,40,Jewellery,,20.0,20.0,0.0,20.0,10,0,True,Sold,Below Estimate,False,2.0,0.4,0.0,0.0,V028,L1210
+20,20,40,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1211
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,20,0,True,Sold,Below Estimate,False,4.0,0.8,0.0,0.0,V028,L1212
+25,30,40,Clothing,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V050,L1213
+20,25,45,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1214
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1215
+20,25,50,"Gemstones, minerals, fossils",,20.0,20.0,10.0,20.0,190,0,True,Sold,Above Estimate,False,38.0,7.6,19.0,3.8,V042,L1216
+25,30,50,Asian Oriental Chinese Japanese,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V010,L1217
+20,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1218
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1219
+40,50,90,"Gemstones, minerals, fossils",,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V045,L1220
+10,20,40,"Gemstones, minerals, fossils",,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V042,L1221
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1222
+10,10,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1223
+15,20,35,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1224
+35,40,60,Jewellery,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V050,L1225
+20,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1226
+30,40,60,Militaria/Fire Arm,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V057,L1227
+15,20,35,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1228
+200,250,300,Metalware,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V029,L1229
+30,40,60,Militaria/Fire Arm,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V061,L1230
+25,30,40,Clothing,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V050,L1231
+15,15,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1232
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1233
+5,10,20,Retro vintage,Glassware/Mirrors,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V054,L1234
+5,10,20,Asian Oriental Chinese Japanese,,20.0,20.0,15.0,20.0,5,0,True,Sold,Below Estimate,False,1.0,0.2,0.75,0.15,V027,L1235
+5,5,10,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V062,L1236
+10,15,25,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1237
+100,110,130,Militaria/Fire Arm,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V061,L1238
+10,20,40,"Gemstones, minerals, fossils",,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V042,L1239
+60,70,100,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V004,L1240
+30,40,80,Jewellery,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V045,L1241
+30,30,50,Militaria/Fire Arm,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V061,L1242
+20,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1243
+10,15,20,Sporting Memorabilia,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V057,L1244
+40,50,70,Jewellery,,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V045,L1245
+15,20,40,Jewellery,,20.0,20.0,5.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V057,L1246
+20,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1247
+20,30,50,"Gemstones, minerals, fossils",,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V042,L1248
+5,10,20,Film Music Memorabilia,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V055,L1249
+20,25,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V026,L1250
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1251
+10,20,30,"Gemstones, minerals, fossils",,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V042,L1252
+10,15,20,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1253
+10,15,20,Film Music Memorabilia,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V055,L1254
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1255
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,15,0,True,Sold,Below Estimate,False,3.0,0.6,0.0,0.0,V028,L1256
+5,10,20,Film Music Memorabilia,,20.0,20.0,15.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V055,L1257
+15,20,40,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1258
+140,150,200,"Gemstones, minerals, fossils",,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V042,L1259
+250,300,450,Metalware,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V029,L1260
+15,20,30,Jewellery,,20.0,20.0,0.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V028,L1261
+4200,4300,5500,"Gemstones, minerals, fossils",,20.0,20.0,10.0,20.0,0,0,False,Not Sold,Not Sold,False,0.0,0.0,0.0,0.0,V045,L1262
+60,70,90,"Gemstones, minerals, fossils",,20.0,20.0,10.0,20.0,60,0,True,Sold,Below Estimate,False,12.0,2.4,6.0,1.2,V042,L1263
+5,10,20,Pottery/Ceramic/Porcelain,,20.0,20.0,0.0,20.0,5,0,True,Sold,Below Estimate,False,1.0,0.2,0.0,0.0,V058,L1264
